@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Health Monitor</string>
+    <string name="age">Age</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="description_main">Let\'s get acquainted!</string>
+    <string name="app_description">Integrated Health Monitoring System from Ilya Polonsky</string>
+    <string name="description_pressure">Add your pressure readings</string>
+    <string name="top_pressure">Top pressure</string>
+    <string name="lower_pressure">Lower pressure</string>
+    <string name="heart_rate">Heart rate</string>
+    <string name="save">Save</string>
+    <string name="description_vital">Add Your vital signs</string>
+    <string name="your_weight">Your weight</string>
+    <string name="steps">Steps</string>
+    <string name="pressure">Pressure</string>
+    <string name="vital_signs">Vital signs</string>
+    <string name="error_form">Error, enter the data!</string>
+    <string name="tachycardia">Tachycardia</string>
+</resources>
